@@ -1,0 +1,34 @@
+/* color scheme:
+#659DBD - BLUE
+#697739 - Dark green
+#b4c195 - light green
+#bc986A - brown
+#fbeec1 = beige */
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+img {
+  /* width: 200px; */
+  width: 100%;
+  height: auto;
+}
+
+.display-4 {
+  font-size: 30px;
+}
+
+.display-3 {
+  font-size: 50px;
+}
